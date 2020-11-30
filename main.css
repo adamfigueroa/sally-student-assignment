@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+}
+
+#img {
+    background-color: cadetblue;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    margin: 0px 40px 0px 40px;
+}
+
+#Contact-section {
+    text-align: center;
+}
